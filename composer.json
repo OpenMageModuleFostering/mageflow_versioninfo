@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Mageflow_Versioninfo",
-    "type": "magento-module",
-    "license": "OSL-3.0",
-    "homepage": "",
-    "description": "Mageflow_Versioninfo is an utility extension 
-to see installed extension version numbers.",
-    "authors": [
-    {
-        "name": "Sven Varkel",
-        "email": "sven@mageflow.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
